@@ -89,8 +89,8 @@ class ListGenerateX:
 ║               {Colors.BOLD}███████╗██║███████║   ██║   ╚██████╔╝███████╗██║ ╚████║{Colors.END}{Colors.CYAN}        ║
 ║               {Colors.BOLD}╚══════╝╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═══╝{Colors.END}{Colors.CYAN}        ║
 ║                                                              ║
-║               {Colors.GREEN}Ultimate Wordlist Generator v2.0{Colors.END}{Colors.CYAN}                   ║
-║               {Colors.YELLOW}The Most Powerful Wordlist Tool{Colors.END}{Colors.CYAN}                    ║
+║               {Colors.GREEN}Wordlist Generator{Colors.END}{Colors.CYAN}                   ║
+║               {Colors.YELLOW}Phantom tarafından ANADOLU Akıncılar için {Colors.END}{Colors.CYAN}                    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝{Colors.END}
 
