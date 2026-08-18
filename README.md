@@ -376,7 +376,7 @@ SOFTWARE.
 bash
 
 # Clone
-git clone https://github.com/KULLANICIADIN/listgeneratex.git
+git clone https://github.com/semxgng/listgeneratex.git
 
 # Gir
 cd listgeneratex
